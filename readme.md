@@ -34,6 +34,13 @@ tests/
   test_chat_policy.py       Unit tests for chat policy and retrieval modes
 ```
 
+## Screenshots
+
+<p align="center">
+  <img src="./WhatsApp%20Image%202026-10-27%20at%2011.43.58%20PM.jpeg" alt="EHRLoom screenshot 1" width="45%" />
+  <img src="./WhatsApp%20Image%202026-10-27%20at%2011.45.33%20PM.jpeg" alt="EHRLoom screenshot 2" width="45%" />
+</p>
+
 ## Requirements
 
 - Python version compatible with the pinned packages in `requirements.txt`.
