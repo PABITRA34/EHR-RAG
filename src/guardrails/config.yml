@@ -1,0 +1,11 @@
+models:
+  - type: main
+    engine: openai
+    model: gemini-3.5-flash-lite
+    api_key_env_var: GEMINI_API_KEY
+    parameters:
+      base_url: "https://generativelanguage.googleapis.com/v1beta/openai/"
+    
+  - type: embeddings
+    engine: SentenceTransformers
+    model: NeuML/bioclinical-modernbert-base-embeddings
